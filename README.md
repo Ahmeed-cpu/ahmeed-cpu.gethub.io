@@ -18,7 +18,7 @@ Welcome to my Data Analyst portfolio! I'm a data enthusiast with a strong founda
 
 ## 🛠️ Skills & Tools
 
-- **Data Analysis**: Excel, SQL, R
+- **Data Analysis**: Excel/Spreadsheet, SQL, R-Statistical Programming
 - **Data Visualization**: Tableau, ggplot2
 - **Databases**: MySQL
 
