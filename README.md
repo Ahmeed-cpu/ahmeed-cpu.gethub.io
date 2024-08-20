@@ -13,7 +13,7 @@ Welcome to my Data Analyst portfolio! I'm a data enthusiast with a strong founda
    - **Description**: Analyzed user data from Bellabeat’s smart wellness devices to uncover trends and provide actionable marketing strategies.
    - **Skills Used**: Data cleaning, exploratory data analysis (EDA), data visualization, R programming.
    - **Key Insights**: Identified high sedentary time and proposed strategies to encourage more physical activity among users.
-   - [link to the case study](bellabeat_case_study.pdf)
+   - [link to the case study](http://rpubs.com/Ahmed-cpu/1212081)
 
 
 ## 🛠️ Skills & Tools
